@@ -1,5 +1,4 @@
 let getResBtn = document.querySelector('button')
-let baseURL = 'https://swapi.dev/api/'
 
 let clickBtn = () => {
     console.log('button clicked')
